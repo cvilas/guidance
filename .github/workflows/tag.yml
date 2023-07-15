@@ -19,9 +19,9 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-	with:
-	  fetch-depth:20 # Clone this deep during checkout to find a tag
+        uses: actions/checkout@v3
+        with: |
+          fetch-depth: 0 
 
       - name: Determine latest tag
         id: latest_tag
