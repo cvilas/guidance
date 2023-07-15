@@ -21,9 +21,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Install semver
-        run: npm install --global semver
-
       - name: Determine latest tag
         id: latest_tag
         run: |
@@ -33,8 +30,12 @@ jobs:
       - name: Determine incremented tag
         id: incremented_tag
         run: |
-          patch_version=$(semver --increment patch "${{ steps.latest_tag.outputs.tag }}")
-          incremented_tag="v${{ patch_version }}"
+          IFS='.' read -r -a version_parts <<< "${{ steps.latest_tag.outputs.tag }}"
+          major="${version_parts[0]}"
+          minor="${version_parts[1]}"
+          patch="${version_parts[2]}"
+          patch=$((patch + 1))
+          incremented_tag="v${major}.${minor}.${patch}"
           echo "::set-output name=tag::$incremented_tag"
 
       - name: Create and push tag
