@@ -1,9 +1,7 @@
 # Tags on commit to main branch
 # - Checks out the repository.
-# - Installs the semver package using npm.
 # - Determines the latest tag in the repository.
-# - Increments the patch version of the latest tag using semver.
-# - Creates a new tag with the incremented version number.
+# - Creates a new tag from the latest tag, and increments patch version by 1.
 # - Pushes the new tag to the remote repository.
 
 name: Tag on Merge
