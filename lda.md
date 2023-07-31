@@ -5,11 +5,11 @@ Vilas Chitrakaran, April 2018
 - [Introduction](#introduction)
 - [Layered Databus Architecture](#layered-databus-architecture)
 - [Five design principles to improve reliability of IIoT applications](#five-design-principles-to-improve-reliability-of-iiot-applications)
-    - [Communicate state](#communicate-state)
-    - [Communicate time](#communicate-time)
-    - [Externalise local state](#externalise-local-state)
-    - [Implement idempotent processes](#implement-idempotent-processes)
-    - [Implement commutative processes](#implement-commutative-processes)
+  - [Communicate state](#communicate-state)
+  - [Communicate time](#communicate-time)
+  - [Externalise local state](#externalise-local-state)
+  - [Implement idempotent processes](#implement-idempotent-processes)
+  - [Implement commutative processes](#implement-commutative-processes)
 - [References](#references)
 
 ## Introduction
