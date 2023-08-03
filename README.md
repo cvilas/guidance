@@ -1,16 +1,17 @@
-# guidance
+# Guidance
 
 Documents and resources to  guide me as an engineer
 
-## Product Development
+## People
 
-- [Technology Readiness Levels](trl.md)
+- [Team management](people/teams.md)
 
-## System Architectures
+## Product
 
-- [Layered Databus Architecture](lda.md)
+- [Technology Readiness Levels](product/trl.md)
+- [Layered Databus Architecture](product/lda.md)
 
-## Software Development
+## Process
 
-- [Commit messages](commit_messages.md)
-- [Profiling tools](profiling.md)
+- [Commit messages](process/commit_messages.md)
+- [Profiling tools](process/profiling.md)
