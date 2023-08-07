@@ -28,7 +28,7 @@ time) and fault tolerant. The system is designed around a hierarchical set of da
 space of devices and applications. At the lowest level, it implements local control, automation and analytics
 and higher levels implement supervisory control and monitoring.
 
-![Layered Databus Architecture](media/lda_layered_databus_architecture.png "layered databus architecture")
+![Layered Databus Architecture](../media/lda_layered_databus_architecture.png "layered databus architecture")
 
 Each layer of the databus has the following implementation characteristics:
 
@@ -40,7 +40,7 @@ Each layer of the databus has the following implementation characteristics:
   'topics' that are well known throughout the system.
 - Components are loosely coupled and the databus (underlying DDS protocol) automatically discovers them during runtime.
 
-![Databus Architecture](media/lda_databus.png "databus architecture")
+![Databus Architecture](../media/lda_databus.png "databus architecture")
 
 In a databus-oriented architecture, multiple devices (eg: displays, sensors) can be added or removed without affecting the
 performance of the system. The architecture allows for implementing systems that grow in complexity over time, or
@@ -52,7 +52,7 @@ to be truly scalable, the system architecture has to also be 'data-centric'. In 
 - The data has an associated 'datatype' that is well known to all (reinforcing the idea of the data itself being the
   interface)
 
-![Connect to Data](media/lda_connect_to_data.png "connect to data")
+![Connect to Data](../media/lda_connect_to_data.png "connect to data")
 
 Data is not stored anywhere but cached with every publisher and subscriber. The databus shares data and the DDS protocol
 provides filtering mechanisms to query and extract the right data in real-time. This enables fast local access to latest
@@ -79,7 +79,7 @@ vendors, interoperability is possible because DDS is an industry standard. Back 
 consisting of a fleet of autonomous mobile robots performing tasks in an industrial environment. There are
 multiple data sources on any single robot:
 
-![Data sources in a wheeled mobile robot](media/lda_data_sources_amr.png "data sources - wheeled mobile robot")
+![Data sources in a wheeled mobile robot](../media/lda_data_sources_amr.png "data sources - wheeled mobile robot")
 
 High rate sensor measurements (eg: video stream from a camera) could potentially be tuned for 'best effort' rather than
 reliability, since system performance is not affected if a few sensor readings are missed. On the other hand, signals
@@ -88,7 +88,7 @@ reliability and throughput (review DDS QoS policies).
 
 The higher level architecture of such a fleet of autonomous mobile robots could potentially be implemented as follows:
 
-![LDA for a fleet of mobile robots](media/lda_amr_fleet_arch.png "architecture for a fleet of AMRs")
+![LDA for a fleet of mobile robots](../media/lda_amr_fleet_arch.png "architecture for a fleet of AMRs")
 
 At the lowest level, the robot-specific databus links local sensing, decision and actuation mechanisms for navigation,
 control and payload operations. Supervisory control such as fleet management are implemented at site-level. Multiple

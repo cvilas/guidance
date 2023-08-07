@@ -1,7 +1,6 @@
 # Technology Readiness Levels
 
-![Technology Readiness Levels](media/trls.png)
-
+![Technology Readiness Levels](../media/trls.png)
 
 | TRL | Definition                                                   | Activities                                                                                                                                                   | Milestones                                                         |
 |-----|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
@@ -17,7 +16,5 @@
 
 - A system remains at previous TRL until milestones for the next one are achieved.
 - At every step beyond TRL3, conduct field trials and gather direct user feedback for continuous improvement.
-
-
-
-
+- The framework can be applied not just to system as a whole but to sub-components as well.
+- Note that the framework does not inhibit iterative development. If changing end-conditions invalidate a component, start over.
