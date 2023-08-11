@@ -3,7 +3,7 @@
 As a Leader, I shall:
 
 - Be humble. Building things in the physical world is hard, and can go wrong in many interesting ways.
-- Have strong views, but hold on to them loosely. Conviction provides direction to the team. But, when evidence to the contrary presents itself, change views.
+- Hold on to strong views loosely. Conviction provides direction to the team. But, when evidence to the contrary presents itself, change views.
 - When something (tech, policy, process) does not work, instead of dismissing it outright, ask the question - 'could it work?' 'What needs to change to make it work?' (That it doesn't work is stating the obvious. Takes intellect to go beyond.)
 - Mistakes/Failures are explicitly OK. It's natural path to learning. Engage end-users with the product/process early and often, so we can make those mistakes early and course-correct cheaply and often)
 - Incentivize behaviours, not outcomes (TODO: Link James Clear)

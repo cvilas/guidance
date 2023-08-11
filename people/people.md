@@ -1,4 +1,4 @@
-# Team management
+# People
 
 ## Taking care of team
 

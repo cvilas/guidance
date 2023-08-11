@@ -1,9 +1,12 @@
 # How to integrate third-party software
 
-## General principles
+## General guidelines
 
-- Avoid third-party libraries if possible. Certainly avoid 'frameworks'.
-- Integrate a third-party library into the codebase _only if_ it does not force design compromises.
+- Avoid third-party libraries where possible.
+  - Certainly avoid 'frameworks'.
+  - Certainly avoid third party libraries as a way to outsource core competencies.
+  - Only delegate mundane, utilitarian functions (command line passing, config file management, etc) to third parties
+- Integrate a third-party library into the codebase _only when_ it does not force design compromises.
 
 Rationale 1: Design core components from first principles, building only what we need, following our design guidelines. Re-invent the wheel. This approach results in a system that is simpler, and easier to understand, extend and maintain.
 
@@ -26,13 +29,11 @@ Apache                       |
 Mozilla Public License       |
 LGPL with dynamic linking    |
 
-If the license terms for a third-party software you wish to use is not in the list of approved licenses, talk
-to your Team Lead/Software Engineering Manager, who will work with the legal team and the software vendor
-to agree on terms of use.
+If a license is not in the list of approved licenses, talk to the software vendor to agree on terms of use.
 
 ## Hide third-party API
 
-- Avoid `#include <third_party_lib.h>` in our public-facing headers. Instead, put them in `.cpp` or private implementation headers (following _pimpl_ technique).
+- Avoid `#include <third_party_lib.h>` in public-facing headers. Instead, put them in `.cpp` or private implementation headers (following _pimpl_ technique).
 - Avoid using third-party data structures and data types in our public-facing API.
 
 ## Integrating third-party dependencies
