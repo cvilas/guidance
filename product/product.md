@@ -3,7 +3,7 @@
 - Solving specific problems require deep understanding of the problem domain. So build that first.
   - Make it use-case driven. Generalise later, as more use-cases appear.
   - Let [Technology Readiness Levels](trl.md) guide product development.
-    - Define a spec by TRL3.
+    - Do [requirements analysis](../process/requirements.md) to define a spec by TRL3.
     - Always report current TRL when updating stakeholders on progress.
 - Identify V1 hardware development platform ASAP.
   - Hardware components cannot be abstracted away easily. Aim the get to the right design with fewest iterations.
