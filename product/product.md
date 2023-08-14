@@ -5,9 +5,9 @@
   - Let [Technology Readiness Levels](trl.md) guide product development.
     - Define a spec by TRL3.
     - Always report current TRL when updating stakeholders on progress.
-- Identify V1 hardware development platform asap.
+- Identify V1 hardware development platform ASAP.
   - Hardware components cannot be abstracted away easily. Aim the get to the right design with fewest iterations.
-  - Stable hardware platform is paramount for software development velocity.
+  - Stable hardware platform is paramount for software development velocity. 'Bias to action' with quick iterations in software.
 - Design the system from the UX end backwards, instead of slapping on a UI at the end.
   - Hire UX to lead product development beyond technical proof of concept (TRL3).
 - Always have a plan B for high risk R&D. Implement the easier/obvious solution first and deliver, while the harder/better solution matures over time.
