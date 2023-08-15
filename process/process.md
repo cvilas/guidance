@@ -22,6 +22,7 @@
   - Data transport: DDS or ZeroMQ within product. MQTT for external interfaces.
 - Build core technologies (behaviours, algorithms, control-flow) from first principles
   - No ROS
+  - [Layered Databus Architecture](lda.md) is suitable for large distributed systems.
 - Develop tools that improve development velocity early:
   - Simulation framework from the get go
   - Log recording and playback framework for post-mortem analysis
@@ -38,7 +39,7 @@
   - One step automated testing
   - One step to build and deploy
 - No separate Field Operations Team. Forward deploy members of the development team instead. Rationale:
-  - Eliminates a layer of separation between builders and users, and enables direct feedback between the two
+  - Eliminates a layer of separation between builders and users, and enables lossless direct feedback
   - Engineers must 'eat their own dog food'
   - Effective diagnosis and problem-fixing in the field requires deep knowledge of how the system is engineered
   

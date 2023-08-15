@@ -2,8 +2,7 @@
 
 ## Setting objectives
 
-- Take a moment and reflect on your career aspirations (upwards, sideways). How can you employ your strengths, and 
-where do you need to improve your skills, knowledge and behaviours in order to get there.
+- Take a moment and reflect on your career aspirations (upwards, sideways). How can you employ your strengths, and where do you need to improve your skills, knowledge and behaviours in order to get there.
 - Set 5 to 6 PDP objectives for the year. The objectives should fall into three broad categories
   - Team priorities
   - Role accountabilities
