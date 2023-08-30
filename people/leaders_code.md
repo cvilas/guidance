@@ -16,3 +16,4 @@ As a Leader, I shall:
   - Know how much it costs, excluding salaries, to run my team. Optimise fixed operational costs (e.g.: cloud services, software license fees)
   - Optimise ratio of engineers to other roles (Eg: project managers). Senior engineers are qualified enough to serve in these roles.
 - Accept that for all issues concerning my team, including their productivity and well-being, the buck stops with me.
+- Not micromessage. The message that goes to the CEO is the message that goes to the shop floor, is the message that goes to the customer. Micromessaging is dishonest.
