@@ -1,6 +1,6 @@
 # Product
 
-- Solving specific problems require deep understanding of the problem domain. So build that first. 
+- Solving specific problems require deep understanding of the problem domain. So build that first.
   - Make it use-case driven. Generalise later, as more use-cases appear.
   - Let [Technology Readiness Levels](trl.md) guide product development.
     - Do [requirements analysis](../process/requirements.md) to define a spec by TRL3.
@@ -16,3 +16,4 @@
   - Simplify workflows and user interactions required to achieve a goal with our product
 - Simplify the tech stack  
 - Always have a plan B for high risk R&D. Implement the easier/obvious solution first and deliver, while the harder/better solution matures over time.
+- Most progress happens at system integration and delivery time, _after_ we think we are done. Build up the energy in the dev team for this phase of work
