@@ -3,7 +3,7 @@
 ## [Charlie Munger](https://en.wikipedia.org/wiki/Charlie_Munger)
 
 - Ideas:
-  - Work on your best idea. Simplify. Take it seriously - Don't diversify
+  - Work on your best idea. Don't diversify
 - Reading
   - Humans have been writing down their best ideas for 5,000 years. Read them.
   - Make friends with smart dead people. Read their writing. Steal their ideas. They don’t need them anymore.

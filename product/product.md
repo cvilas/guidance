@@ -6,11 +6,12 @@
   - Do [requirements analysis](../process/requirements.md) to define a spec by TRL3.
   - Always report current TRL when updating stakeholders on progress.
 - With hardware development, front-load effort on design.
-  - Hardware iterations are slow and expensive. Aim the get to the right design with fewest iterations.
+  - Hardware iterations are slow and expensive. Aim to get to the right design with fewest iterations.
   - Hardware cannot be abstracted away easily. Make it representative of the final thing as soon as possible
   - Stable hardware platform is paramount for software development velocity. Identify V1.0 hardware development platform ASAP.
 - With software development, 'bias to action'
   - Rationale: Unlike hardware, software iterations are fast and cheap
+  - However, aim to get the fundamental architecture right asap. Reworking the fundamentals gets expensive over time 
 - UX focus: Design the system from the UX end backwards, instead of slapping on a UI at the end.
   - Hire UX experts to lead product development beyond technical proof of concept (TRL3).
   - Simplify workflows and user interactions required to achieve a goal with our product
