@@ -3,12 +3,7 @@
 - Follow [developers' code](developers_code.md) for writing software
 - Settle on a [release cadence](release_cadence.md) that encourages continuous delivery
 - Set up the build system to generate and deploy artifacts in one step. Rationale: Enables frictionless deployment for testing and release.
-- Maintain a bug database. Minimally, a bug report shall contain the following fields:
-  - Complete steps to reproduce the bug
-  - Expected behaviour
-  - Observed behaviour
-  - Who is it assigned to
-  - Whether it is fixed or not
+- Maintain a bug database. Minimally, a bug report shall contain: steps to reproduce bug, expected behaviour, observed behaviour, who is it assigned to, fix schedule
 - Use these [profiling tools](profiling.md) to measure performance
 
 ## Additional guidelines specific to industrial robotics development
@@ -19,7 +14,7 @@
   - Task orchestration and fault recovery: Behaviour Trees
   - 3D visualisation: Unreal engine (talent pool) or Ogre (simplicity)
   - 2D gui: Imgui or Qt
-  - Data transport: DDS or ZeroMQ within product. MQTT for external interfaces.
+  - Data transport: ZeroMQ or _simpler_ within product (DDS does not scale), MQTT for external interfaces.
 - Build core technologies (behaviours, algorithms, control-flow) from first principles
   - No ROS
   - [Layered Databus Architecture](lda.md) is suitable for large distributed systems.

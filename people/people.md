@@ -2,7 +2,7 @@
 
 ## Taking care of team
 
-- Have scheduled periodic [1:1s](one-to-ones.md) with all direct and indirect reports
+- Have scheduled, periodic [1:1s](one-to-ones.md) with all direct and indirect reports
 - Set high expectations for [behaviours](behaviours.md)
 - Encourage reports to maintain a [PDP](pdp.md) record
 
@@ -17,10 +17,10 @@ Role and seniority does not matter. We do what we need to do.
 - Aim for intellectual diversity with a mix of experts from different domains
 - Request for and review [work samples](work_samples.md) from prospective hires
 - Colocate development team or make it possible to meet in one physical space often. Rationale: Fully remote peers struggle to culturally align and collaborate
-- Keep team small. Rationale: Minimise payroll cost until revenue. Minimise cultural misalignment, cost of communication, latency of decision-making
+- Keep team small. Rationale: Minimise payroll cost (atleast until revenue), cultural misalignment, cost of communication, decision-making latency
 
 ## Leading
 
 - Follow the [leaders' code](leaders_code.md)
-- Encourage team members to [contribution](oss_contrib.md) to open source projects _we use_
+- Encourage team members to [contribute](oss_contrib.md) to open source projects _we use_
 - Maintain a physical work environment that inspires great work (I need to flesh this out a bit. Examples are: clean labs, Artifacts/icons of greatness we wish to emulate or exceed. Exact details TBD)
