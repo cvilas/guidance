@@ -22,8 +22,6 @@
   - Simulation framework from the get go
   - Log recording and playback framework for post-mortem analysis
 - Use systems engineering languages: C++ (latest standard), Rust, Python
-  - Use C++ exceptions
-  - Don't allow macros
 - Build system
   - Always current, and easily updatable to latest versions of compilers, languages, tools
   - Based on CMake, because our eco-system is built around it (not bazel or other esoteric tools)
