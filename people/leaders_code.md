@@ -1,5 +1,10 @@
 # Leadership Code
 
+## Core principles
+
+- What [motivates](https://www.youtube.com/watch?v=u6XAPnuFjJc) all of us is autonomy, mastery and sense of purpose. Deliver that.
+- Provide context, not control.
+
 As a Leader, I shall:
 
 - Be humble. Building things in the physical world is hard, and can go wrong in many interesting ways.
