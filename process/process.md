@@ -8,16 +8,11 @@
 
 ## Additional guidelines specific to industrial robotics development
 
-- Delegate non-core technologies to a ‘few’ third party libraries
-  - utilities: absl, glog, gflags, google config
-  - serdes: Protobuf
-  - Task orchestration and fault recovery: Behaviour Trees
-  - 3D visualisation: Unreal engine (talent pool) or Ogre (simplicity)
-  - 2D gui: Imgui or Qt
-  - Data transport: ZeroMQ or _simpler_ within product (DDS does not scale), MQTT for external interfaces.
-- Build core technologies (behaviours, algorithms, control-flow) from first principles
-  - No ROS
-  - [Layered Databus Architecture](lda.md) is suitable for large distributed systems.
+- Build core technologies from first principles
+- Option to delegate non-core technologies to a ‘few’ third party libraries, but:
+  - Only choose third-party components that provide mechanisms (atomic capabilities) and do not impose policies (architectural limitations, design constraints) (Avoid 'frameworks' like ROS)
+- Use [Layered Databus Architecture](lda.md) for large hierarchical distributed systems.
+- Prefer behaviour trees over FSMs for task orchestration and fault recovery
 - Develop tools that improve development velocity early:
   - Simulation framework from the get go
   - Log recording and playback framework for post-mortem analysis
