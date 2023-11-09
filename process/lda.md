@@ -15,8 +15,7 @@ Vilas Chitrakaran, April 2018
 ## Introduction
 
 This technical note describes a foundational architectural pattern for designing large distributed systems (sometimes called
-industrial internet of things - IIoT) with the [Data Distribution Service (DDS)](https://en.wikipedia.org/wiki/Data_Distribution_Service)
-communication standard. The key idea of 'Layered Databus Architecture' advocated by
+industrial internet of things - IIoT). The key idea of 'Layered Databus Architecture' advocated by
 [RTI](https://www.rti.com/blog/2017/01/31/2nd-version-of-the-industrial-internet-reference-architecture-is-out-with-layered-databus)
 is described, followed by five specific ways to improve reliability of systems that use such an architecture. The
 contents of this technical note are derived from my notes from a webinar organised by RTI.
@@ -38,7 +37,9 @@ Each layer of the databus has the following implementation characteristics:
   the hospital to another even through regions with no connectivity)
 - Applications and devices have no knowledge of each other. They function by publishing and subscribing data over
   'topics' that are well known throughout the system.
-- Components are loosely coupled and the databus (underlying DDS protocol) automatically discovers them during runtime.
+- Components are loosely coupled and the databus automatically discovers them during runtime.
+
+Mature communication standards such as [DDS](https://en.wikipedia.org/wiki/Data_Distribution_Service) as well as newly evolving new frameworks such as [Zenoh](https://zenoh.io/) support these characteristics.
 
 ![Databus Architecture](../media/lda_databus.png "databus architecture")
 
