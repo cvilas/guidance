@@ -27,11 +27,11 @@ It's acceptable for specifications to evolve with implementation, as we uncover 
 
 > "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off." - Bjarne Stroustrup
 
-- In using language features, be correct and safe. Use [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines). (Or use `.clang-tidy` in the root directory)
-- In coding _style_, be consistent. Follow [ROS C++ Style Guide](https://wiki.ros.org/CppStyleGuide). (Or use `.clang-format` in the root directory)
+- In using language features, be correct and safe. Use [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines). (example [clang-tidy](.clang-tidy) configuration)
+- In coding _style_, be consistent. Follow [ROS C++ Style Guide](https://wiki.ros.org/CppStyleGuide). (example [.clang-format](.clang-format) configuration )
 - Aim to implement code that is [correct by construction](correct_by_construction.md).
-- Employ [third party software](process/third_party.md) sparingly, and with great caution and skepticism
-- Follow a consistent format for [commit messages](process/commit_messages.md)
+- Employ [third party software](third_party.md) sparingly, and with great caution and skepticism
+- Follow a consistent format for [commit messages](commit_messages.md)
 - Organise the implementation into logical 'modules', each with its own unit tests, example programs, and documentation. See [modules](#modules)
 - When work is completed, raise a pull request and assign peers for [code review](code_reviews.md)
 

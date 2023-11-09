@@ -5,10 +5,9 @@
 - Avoid third-party libraries where possible.
   - Certainly avoid 'frameworks'.
   - Certainly avoid third party libraries as a way to outsource core competencies.
-  - Only delegate mundane, utilitarian functions (command line passing, config file management, etc) to third parties
 - Integrate a third-party library into the codebase _only when_ it does not force design compromises.
 
-Rationale 1: Design core components from first principles, building only what we need, following our design guidelines. Re-invent the wheel. This approach results in a system that is simpler, and easier to understand, extend and maintain.
+Rationale 1: Design core components from first principles, building only what we need, following our design guidelines. Re-invent the wheel. This approach results in a system that is simpler, easier to understand, extend and maintain.
 
 Rationale 2: We _own_ any third-party code we integrate, i.e., we become responsible for its bug fixes and maintenance. Customer operations cannot stop and wait for original authors of a library to fix the software upstream. Better to write and fix your own bugs than deal with others'.
 
