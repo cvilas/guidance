@@ -9,9 +9,10 @@ As a Leader, I shall:
 
 - Be humble. Building things in the physical world is hard, and can go wrong in many interesting ways.
 - Hold on to strong views loosely. Conviction provides direction to the team. But, when evidence to the contrary presents itself, change views.
+- Commit once a decision is made, even if I disagree. (It's common for intelligent/reasonable people to disagree)
 - Not dismiss something (tech, policy, process) that does not work without asking the questions 'could it work?' and 'What needs to change to make it work?' (That it doesn't work is stating the obvious. Takes intellect to go beyond.)
 - Hold the urge to complain. Propose solutions. Build consensus. Move forward. It's hard work, but the right thing to do.
-- Accept that mistakes/failures are natural part of learning. Engage end-users with the product/process early and often, so we can make those mistakes early and course-correct cheaply and often)
+- Accept that mistakes/failures are natural part of learning. Engage end-users with the product/process early and often, so we can make those mistakes early and course-correct cheaply and often
 - Incentivize behaviours, not outcomes (Closely related to James Clear's [Identity-Based Habits](https://jamesclear.com/identity-based-habits))
 - Trust people to come up with solutions better than I could and let them drive it.
 - Think positively. Pessimism feels intellectual, but it ain't ('Seduction of Pessimism' - chapter 17 - [The Psychology of Money](https://www.amazon.co.uk/Psychology-Money-Timeless-lessons-happiness-ebook/dp/B084HJSJJ2))
