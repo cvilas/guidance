@@ -23,4 +23,5 @@ As a Leader, I shall:
   - Optimise ratio of engineers to other roles (Eg: project managers). Senior engineers are qualified enough to serve in these roles.
 - Accept that for all issues concerning my team, including their productivity and well-being, the buck stops with me.
 - Not micromessage. The message that goes to the CEO is the message that goes to the shop floor, is the message that goes to the customer. Micromessaging is dishonest.
+- Set high standards for work and behaviours. There will be pressure to lower those standards everyday. I won't do it.
 - Mentor and train my replacement, so I can move on/continue to learn/create further impact.
