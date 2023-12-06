@@ -16,5 +16,5 @@
   - Hire UX experts to lead product development beyond technical proof of concept (TRL3).
   - Simplify workflows and user interactions required to achieve a goal with our product
 - Simplify the tech stack  
-- Always have a plan B for high risk R&D. Implement the easier/obvious solution first and deliver, while the harder/better solution matures over time.
+- Always have a plan B for high risk R&D.
 - Most progress happens at system integration and delivery time, _after_ we think we are done. Build up the energy in the dev team for this phase of work
