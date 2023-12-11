@@ -39,3 +39,16 @@ A few amusing but insightful life lessons from my flight instructor Tim Raby
 
 - On discipline, practise, and following standard procedures: "Make sure the daily judgement calls and decisions you make look reasonable when they appear in the accident investigation report".
 - On irreversible events: Once the engine has failed, the aircraft doesn't belong to you. It belongs to the insurance company. Forget saving the aircraft; save yourself and your passengers.
+
+## On running my own business
+
+- Benefits, not perks
+  - Benefits (pension, life assurance) offer long-term value to employees
+  - Perks (coffee) are nice-to-have but they don't motivate.
+  - Don't offer anything for free (eg: lunch). Instead, make all such services self-sustaining.
+
+## On finding inspiration and motivation
+
+- Listen to [13 minutes to the moon](https://www.bbc.co.uk/programmes/w13xttx2) on how a bunch of kids in their 20s achieved the impossible.
+- Live the childhood I wanted.
+- If today was my last day on earth, what would I be proud of building? What's my life's work?
