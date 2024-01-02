@@ -10,7 +10,8 @@
 
 - Build core technologies from first principles
 - Option to delegate non-core technologies to a ‘few’ third party libraries, but:
-  - Only choose third-party components that provide mechanisms (atomic capabilities) and do not impose policies (architectural limitations, design constraints) (Avoid 'frameworks' like ROS)
+  - Only choose third-party components that provide mechanisms (atomic capabilities) and do not impose policies (architectural limitations, design constraints) 
+  - Avoid 'frameworks': ROS, Qt
 - Use [Layered Databus Architecture](lda.md) for large hierarchical distributed systems.
 - Prefer behaviour trees over FSMs for task orchestration and fault recovery
 - Develop tools that improve development velocity early:
