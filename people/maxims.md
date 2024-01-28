@@ -33,6 +33,14 @@
   - Use money to buy freedom.
   - Self improvement has no end.
 
+## Paul Graham
+
+- If you correct course at a high enough frequency, you can be simultaneously decisive at the micro scale and tentative at the macro scale. [[essay](https://www.paulgraham.com/users.html)]
+- Writing is not just a way to convey ideas, but also a way to have them. [[essay](https://www.paulgraham.com/read.html)]
+- The most successful investors are also the most upstanding. [[essay](https://www.paulgraham.com/ronco.html)]
+- If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for. [[essay](https://www.paulgraham.com/work.html)]
+- Take extraordinary measures to acquire users in the early days of a business. This might mean doing things that don't scale. Scaling is easier to solve than getting initial customers. [[essay](https://www.paulgraham.com/ds.html)]
+
 ## Elon Musk
 
 - Five commandments
@@ -53,7 +61,7 @@
 
 ## Flight Instructors (various)
 
-- On discipline, practise, and following standard procedures: "Make sure the daily judgement calls and decisions you make look reasonable when they appear in the accident investigation report".
+- On discipline, practise, and following standard procedures: "Make sure the judgement calls and decisions you make up in the air look reasonable if they were to appear in an accident investigation report".
 - On irreversible events: Once the engine has failed, the aircraft doesn't belong to you. It belongs to the insurance company. Forget saving the aircraft; save yourself and your passengers.
 
 ## On running my own business
