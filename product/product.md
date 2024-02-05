@@ -4,7 +4,8 @@
   - Make it use-case driven. Generalise later, as more use-cases appear.
 - Let [Technology Readiness Levels](trl.md) guide product development.
   - Do [requirements analysis](../process/requirements.md) to define a spec by TRL3.
-  - Always report current TRL when updating stakeholders on progress.
+  - Report current TRL when updating stakeholders on progress. 
+  - Follow a *no renders* policy. No special effects. No edits that hide issues.
 - With hardware development, front-load effort on design.
   - Hardware iterations are slow and expensive. Aim to get to the right design with fewest iterations.
   - Hardware cannot be abstracted away easily. Make it representative of the final thing as soon as possible
