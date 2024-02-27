@@ -1,6 +1,6 @@
 # Process
 
-- Follow [developers' code](developers_code.md) for writing software
+- Follow the [developer's guide](developer_guide.md) for writing software
 - Settle on a [release cadence](release_cadence.md) that encourages continuous delivery
 - Set up the build system to generate and deploy artifacts in one step. Rationale: Enables frictionless deployment for testing and release.
 - Maintain a bug database. Minimally, a bug report shall contain: steps to reproduce bug, expected behaviour, observed behaviour, who is it assigned to, fix schedule

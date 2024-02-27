@@ -2,24 +2,31 @@
 
 ![Release Cadence](../media/release_cadence.png)
 
-Follow a 'rolling release' development model (also called 'continuous delivery) that aims to release software to production bi-weekly. Every release candidate (RC) goes through two system-level validation and verification (V&V) tests, V&V1 and V&V2, conducted a week apart, before it is released.
+## Principles
 
-- On the last day of a two-week Sprint, a new RC branch is generated, typically from the head of `main` branch.
-- V&V process begins the following Monday (start of next Sprint), with V&V-1 and V&V-2 spaced one week apart.
-  - If V&V-1 passes, the software is released to production, and V&V-2 is skipped.
-  - If V&V-1 fails, the team shall triage and aim to resolve issues before V&V-2. Changes are integrated into the RC branch following the [hotfix procedure](#hotfixing-a-release-branch).
-  - If V&V-2 passes, the software is released to production. If V&V-2 fails, the release RC is abandoned and the release skipped for the current cycle.
+- The `main` branch is always 'green' (i.e. functional)
+- Releases are created from `main` branch and nominally delivered to production bi-weekly. 
+- Every release candidate (RC) gets two validation and verification (V&V) tests, before release.
 
-Note that if V&V-2 is skipped, we shall not expedite the next release; the next V&V-1 shall be scheduled as usual at the start of next Sprint. This fixed cadence gives each release at least two weeks to accumulate hours in production, and balances the interests of both the Development team (who want to see their features in production asap) and the Operations team (who value stability in production environment).
+## Procedure
 
-## Creating a release branch
+- On the last day of a two-week Sprint, generate a new RC branch from the head of `main` branch.
+- Start V&V-1 the following Monday (start of next Sprint). V&V-1 and V&V-2 spaced one week apart.
+  - If V&V-1 passes, release software to production. Skip V&V-2.
+  - If V&V-1 fails, attempt to triage and resolve issues before V&V-2. Integrate any changes into the RC branch following the [hotfix procedure](#hotfixing-a-release-branch).
+  - If V&V-2 passes, release software to production. 
+  - If V&V-2 fails, abandon the RC and skip the release for the current cycle.
+
+Note that if V&V-2 is skipped, we shall not expedite the next release; the next V&V-1 shall be scheduled as usual at the start of next Sprint. This fixed cadence gives each release at least two weeks to accumulate hours in production, and balances the interests of both the development team (who want to see their features in production asap) and the operations team (who value stability in production environment).
+
+### Creating a release branch
 
 - Create release branch from `main` branch. Call it `release-<version>`, where `version` is the version identifier.
 - Mark the release branch protected so that only maintainers can modify this branch
 - Build and package up the artifacts
 - Publish
 
-## Hotfixing a release branch
+### Hotfixing a release branch
 
 This procedure is for publishing a hotfix (eg: bug fix) for a release candidate (RC) or software in production.
 
