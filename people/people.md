@@ -6,10 +6,10 @@ Fight for the cause. Role and seniority does not matter. We do what we need to d
 
 ## Hiring
 
-- Aim for intellectual diversity with a mix of experts from different domains
-- Request for and review [work samples](work_samples.md) from prospective hires
+- Seek intellectual diversity with a mix of experts from different domains
 - Colocate development team or make it possible to meet in one physical space often. Rationale: Fully remote peers struggle to culturally align and collaborate
 - Keep team small. Rationale: Minimise payroll cost (atleast until revenue), cultural misalignment, cost of communication, decision-making latency
+- Follow interview [guidelines](interview.md)
 
 ## Leading
 
