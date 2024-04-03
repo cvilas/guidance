@@ -1,6 +1,6 @@
 # How to interview
 
-Realise that as an interviewer, you are not just a gatekeeper bit an ambassador for your organisation.
+Realise that as an interviewer, you are not just a gatekeeper but an ambassador for your organisation.
 
 - Request for and review [work samples](./media/work_samples.pdf) from prospective hires
   - Don't make them do [homework](./media/homework.pdf)
