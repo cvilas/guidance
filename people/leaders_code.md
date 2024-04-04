@@ -28,3 +28,5 @@ As a Leader, I shall:
 - Aim to pay well. Rationale:
   - Minimises turnover and associated reduction in efficiency and customer satisfaction. 
   - Low pay sets reduced expectations; high pay incentivises higher performance.
+
+> I shall encourage my team to call me out if I am perceived to be breaking the code above

@@ -31,4 +31,5 @@
   - Eliminates a layer of separation between builders and users, and enables lossless direct feedback
   - Engineers must 'eat their own dog food'
   - Effective diagnosis and problem-fixing in the field requires deep knowledge of how the system is engineered
-  
+- Minimise distance (layers of management, reporting line) between field operators and decision makers. Rationale:
+  - Motivates timely action on issues of high risk to business or personnel safety. Whether it's the O-rings on the Challenger or foam-strike on Columbia, the engineers on the ground knew. The message lost it's urgency on the way up the chain of command.     
