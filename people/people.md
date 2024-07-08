@@ -4,16 +4,10 @@
 
 Fight for the cause. Role and seniority does not matter. 
 
-## Hiring
-
-- Seek intellectual diversity with a mix of experts from different domains
-- Colocate development team or make it possible to meet in one physical space often. Rationale: Fully remote peers struggle to culturally align and collaborate
-- Keep team small. Rationale: Minimise cultural misalignment, cost of communication, decision-making latency
-- Follow interview [guidelines](interview.md)
-
 ## Leading
 
 - Follow the [leaders' code](leaders_code.md)
+- follow [hiring guidelines](hiring.md)
 - Encourage team members to [contribute](oss_contrib.md) to open source projects _we use_
 - Maintain a physical work environment that inspires great work (Examples are: clean labs, Artifacts/icons of greatness we wish to emulate or exceed)
 

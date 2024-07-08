@@ -1,4 +1,19 @@
-# How to interview
+# How to hire
+
+## General principles
+
+- Colocate development team or make it possible to meet in one physical space often. Rationale:
+  - Robotics development is centered around hardware. Being in the same space speeds up problem solving
+  - Fully remote peers struggle to culturally align and collaborate
+- Keep team small. Rationale:
+  - Minimise cultural misalignment
+  - Minimise cost of communication and decision-making latency
+- In prospective hires, seek:
+  - Intellectual diversity (be open to talent from unrelated domains)
+  - Spiky talent (generalists with deep expertise in specific areas)
+  - Humility
+
+## Interview guidelines
 
 Realise that as an interviewer, you are not just a gatekeeper but an ambassador for your organisation.
 
