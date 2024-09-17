@@ -7,7 +7,7 @@ Fight for the cause. Role and seniority does not matter.
 ## Leading
 
 - Follow the [leaders' code](leaders_code.md)
-- follow [hiring guidelines](hiring.md)
+- Follow [hiring guidelines](hiring.md)
 - Encourage team members to [contribute](oss_contrib.md) to open source projects _we use_
 - Maintain a physical work environment that inspires great work (Examples are: clean labs, Artifacts/icons of greatness we wish to emulate or exceed)
 
