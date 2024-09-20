@@ -3,7 +3,7 @@
 - Follow the [developer's guide](developer_guide.md) for writing software
 - Build core technologies from first principles
 - Option to delegate non-core technologies to a ‘few’ third party libraries, but:
-  - Only choose third-party components that provide mechanisms (atomic capabilities), not policies (architectural limitations, design constraints)
+  - Only choose third-party components that provide mechanisms (atomic capabilities), not policies (how they are used). Rationale: Policies impose architectural limitations and design constraints
   - Avoid 'frameworks': ROS, Qt
 - Use [Layered Databus Architecture](lda.md) for large hierarchical distributed systems.
 - Prefer behaviour trees over FSMs for task orchestration and fault recovery. Rationale: debuggability, extendabilty
