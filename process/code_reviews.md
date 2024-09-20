@@ -9,7 +9,7 @@
 - Please give reviewers a heads-up on what the MR is about (if not in the MR description already).
 - Empathise: You are asking for unplanned time from your colleague, who may be busy on their own tasks. Work with them personally to get your MR through in a timely manner.
 
-### To reviwers
+### To reviewers
 
 - Make your availability known when your review is requested. Clarify expected response time.
 - In reviewing an MR
