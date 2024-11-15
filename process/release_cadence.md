@@ -5,7 +5,8 @@
 ## Principles
 
 - The `main` branch is always 'green' (i.e. functional)
-- Releases are created from `main` branch and nominally delivered to production bi-weekly. 
+- Releases are created from `main` branch and delivered to production bi-weekly.
+  - This cadence is fixed. Release what is ready. Do not delay release for a feature. Rationale: Production environment requires predictable schedules
 - Every release candidate (RC) gets two validation and verification (V&V) tests, before release.
 
 ## Procedure
