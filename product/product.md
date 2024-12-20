@@ -20,7 +20,7 @@
   - Train all engineers on basic principles of usability [1]
   - Simplify workflows and user interactions required to achieve a goal with our product
 - Simplify the tech stack
-  - Do not conflate simple with easy/familiar. [2]
+  - Do not conflate simple with easy/familiar. [2] [3]
   - Simplicity != effortless. It takes time and effort to simplify. Make that investment.
 - Always have a plan B for high risk R&D.
 - Most progress happens at system integration and delivery time, _after_ we think we are done. Build up the energy in the dev team for this phase of work
@@ -29,3 +29,6 @@
 
 - [1] Read [The design of everyday things](https://www.amazon.co.uk/Design-Everyday-Things-MIT-Press/dp/0262525674)
 - [2] [Simple made easy](https://youtu.be/SxdOUGdseq4?si=h-VFjYRghysS92bu)
+- [3] In the world of traditional watchmaking, any functionality that does not contribute to 
+      displaying time is called a ['complication'](https://en.wikipedia.org/wiki/Complication_(horology)). 
+      An inspired bit of naming.
