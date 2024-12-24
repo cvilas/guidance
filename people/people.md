@@ -2,7 +2,8 @@
 
 > "Toilet overflows while the Chef is at hand? He's going right in with the plunger, and fast. No waiting for the toilet guy - he is the toilet guy now. In Bigfoot's army, you fight for the cause, anywhere you are needed" - Anthony Bourdain, Kitchen Confidential
 
-Fight for the cause. Role and seniority does not matter. 
+- On tactical and daily operational matters, just get things done. Role and seniority does not matter. 
+- Don't bring up a problem unless you have a solution
 
 ## Leading
 
