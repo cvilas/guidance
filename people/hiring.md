@@ -3,15 +3,19 @@
 ## General principles
 
 - Colocate development team or make it possible to meet in one physical space often. Rationale:
-  - Robotics development is centered around hardware. Being in the same space speeds up problem solving
+  - Being in the same space speeds up collaborative hands-on problem solving
   - Fully remote peers struggle to culturally align and collaborate
 - Keep team small. Rationale:
-  - Minimise cultural misalignment
-  - Minimise cost of communication and decision-making latency
+  - Minimises cultural misalignment
+  - Minimises cost of communication and decision-making latency
+- Hire sparingly (follows from previous point)
+  - Prefer to train and promote from within. (This also improves retention & cultural alignment)
+- Increase talent _density_. Every hire must be a force-multiplier for overall team capability
 - In prospective hires, seek:
   - Intellectual diversity (be open to talent from unrelated domains)
   - Spiky talent (generalists with deep expertise in specific areas)
-  - Craftmanship (ability to build things in the physical world from first principles)
+  - Aptitude for craftsmanship
+  - Ability to build from first principles
   - Humility
 
 ## Interview guidelines

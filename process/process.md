@@ -9,8 +9,8 @@
 - Prefer behaviour trees over FSMs for task orchestration and fault recovery. Rationale: debuggability, extendabilty
 - Develop tools that improve development velocity early:
   - Simulation framework from the get go
-  - Log recording and playback framework for post-mortem analysis
-- Use systems engineering languages: C++ (latest standard), Rust, Python
+  - Data recording and playback framework for post-mortem analysis
+- Use systems engineering languages: C++, Rust, Python
 - Maintain a bug database. Minimally, a bug report shall contain:
   - Steps to reproduce bug
   - Expected behaviour

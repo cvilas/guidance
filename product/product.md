@@ -21,8 +21,12 @@
   - Simplify workflows and user interactions required to achieve a goal with our product
 - Simplify the tech stack
   - Do not conflate simple with easy/familiar. [2] [3]
-  - Simplicity != effortless. It takes time and effort to simplify. Make that investment.
-- Always have a plan B for high risk R&D.
+  - Simple != effortless. It takes time and effort to simplify. Make that investment.
+- For complex parts that remain, ensure multiple co-owners who understand the tech deeply.
+- Don't shy away from high-risk R&D. True competitive advantage and IP lie here. But make it viable:
+  - Develop early proof-of-concept demos to ensure buy-in
+  - Always have a plan B
+  - Document everything
 - Most progress happens at system integration and delivery time, _after_ we think we are done. Build up the energy in the dev team for this phase of work
 
 ## Notes

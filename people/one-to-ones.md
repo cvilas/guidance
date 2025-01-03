@@ -11,6 +11,9 @@ Have 1:1s with direct reports biweekly and all indirect reports monthly to
 - Detect and adapt to changes in operating context or conditions.
 - Understand what you and I are doing well, and where we are falling short.
 - Improve trust and transparency across the team
+- Provide strong technical direction
+- Remove blockers
+- Coach for performance
 
 ## Guide
 
@@ -21,5 +24,6 @@ Have 1:1s with direct reports biweekly and all indirect reports monthly to
 - Close the loop:  
   - Follow up and share actions taken based on feedback from the last session.
   - If feedback was not acted upon, explain why. When peers don't hear back after giving feedback, they will assume their suggestions were ignored.
+  - Clarify goals and expectations are well understood
 - Make giving feedback a habit.
   - Encourage people to talk to each other directly to resolve personal and professional issues. Avoid being the intermediary.

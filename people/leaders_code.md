@@ -3,14 +3,14 @@
 ## Core principles
 
 - What [motivates](https://www.youtube.com/watch?v=u6XAPnuFjJc) all of us is autonomy, mastery and sense of purpose. Deliver that.
-- Provide context, not control.
+- Provide vision and operating context, not control.
 
 As a Leader, I shall:
 
 - Be humble. Building things in the physical world is hard, and can go wrong in many interesting ways.
 - Hold on to strong views loosely. Conviction provides direction to the team. But, when evidence to the contrary presents itself, change views.
 - Commit once a decision is made, even if I disagree. (It's common for intelligent/reasonable people to disagree)
-- Not dismiss something (tech, policy, process) that does not work without asking the questions 'could it work?' and 'What needs to change to make it work?' (That it doesn't work is stating the obvious. Takes intellect to go beyond.)
+- Not dismiss something (tech, policy, process) that does not work without asking the questions 'could it work?' and 'What needs to change to make it work?' (That it doesn't work is stating the obvious.)
 - Hold the urge to complain. Propose solutions. Build consensus. Move forward. It's hard work, but the right thing to do.
 - Accept that mistakes/failures are natural part of learning. Engage end-users with the product/process early and often, so we can make those mistakes early and course-correct cheaply and often
 - Incentivize behaviours, not outcomes (Closely related to James Clear's [Identity-Based Habits](https://jamesclear.com/identity-based-habits))
@@ -25,8 +25,9 @@ As a Leader, I shall:
 - Not micromessage. The message that goes to the CEO is the message that goes to the shop floor, is the message that goes to the customer. Micromessaging is dishonest.
 - Set high standards for work and behaviours. There will be pressure to lower those standards everyday. I won't do it.
 - Mentor and train my replacement, so I can move on/continue to learn/create further impact.
-- Aim to pay well. Rationale:
-  - Minimises turnover and associated reduction in efficiency and customer satisfaction. 
+- Pay well. Rationale:
   - Low pay sets reduced expectations; high pay incentivises higher performance.
+- Reward and support hyper-performers in every possible way, not just in renumeration. Eg: higher autonomy, authority, responsibility
+- Avoid becoming a middle-manager, and save my best performers from similar fate. A team of high-agency individuals do not need them. Instead, find bandwidth to contribute, expand and sharpen technical skills.
 
 > I shall encourage my team to call me out if I am perceived to be breaking the code above
