@@ -6,9 +6,9 @@ On tactical and daily operational matters, just get things done. Role and senior
 
 ## Principles
 
-- Don't complain. Propose solutions instead
-- Get comfortable working at the edge of chaos and disfunction
-- Keep improving your own skills density. Maintain a [Personal Development Plan](pdp.md)
+- Propose solutions, don't merely complain.
+- Be comfortable working at the edge of chaos and dysfunction
+- Keep improving your own talent density. Maintain a [Personal Development Plan](pdp.md)
 - [Contribute](oss_contrib.md) to open source projects _we use_
 - Have scheduled, periodic [1:1s](one-to-ones.md) with your direct and indirect reports
 - Set high expectations for [behaviours](behaviours.md)
