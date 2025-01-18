@@ -2,17 +2,17 @@
 
 ## General guidelines
 
-- Avoid third-party libraries where possible.
-  - Certainly avoid 'frameworks'.
+- Avoid third-party libraries unless absolutely necessary
+  - Certainly avoid 'frameworks'
   - Certainly avoid third party libraries as a way to outsource core competencies.
-- Integrate a third-party library into the codebase _only when_ it does not force design compromises.
+- Only use third-party libraries that provide mechanisms (atomic capabilities), not policies (how they are used)
 
 ### Rationale
 
-1. Design core components from first principles, building only what we need, following our design guidelines. Re-invent the wheel. This approach results in a system that is simpler, easier to understand, extend and maintain.
-1. We _own_ any third-party code we integrate, i.e., we become responsible for its bug fixes and maintenance. Customer operations cannot stop and wait for original authors of a library to fix the software upstream. Better to write and fix your own bugs than deal with others'.
+1. Build from first principles. Build only what we need. Re-invent the wheel. This results in a simpler system that is easier to understand, extend and maintain.
+1. We _own_ any third-party code we integrate, i.e., we become responsible for its bug fixes and maintenance. Customer operations cannot stop and wait for upstream fixes. Better to write and fix your own bugs than deal with others'.
 
-## HowTo
+## How-to
 
 If the benefits of using third-party libraries outweigh the aforementioned drawbacks, then:
 
