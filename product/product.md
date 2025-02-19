@@ -29,6 +29,10 @@
   - Document everything
 - Most progress happens at system integration and delivery time, _after_ we think we are done. Build up the energy in the dev team for this phase of work
 
+## Lessons from Dyson
+
+On robotic product engineering in particular, here are valuable lessons I learnt from [Dyson](dyson.md)
+
 ## Notes
 
 - [1] Read [The design of everyday things](https://www.amazon.co.uk/Design-Everyday-Things-MIT-Press/dp/0262525674)
