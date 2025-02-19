@@ -5,10 +5,11 @@
 - Colocate development team or make it possible to meet in one physical space often. Rationale:
   - Being in the same space speeds up collaborative hands-on problem solving
   - Fully remote peers struggle to culturally align and collaborate
-- Aim for high talent _density_
-  - Hire sparingly. Prefer to train and promote from within.
-  - Hire the most talented people we can find (i.e. force-multipliers for overall team capability)
+- Hire sparingly.
   - Keep team small for high cultural alignment, low communication cost and low decision-making latency
+- Aim for high talent _density_
+  - Train and promote from within.
+  - Only hire force-multipliers (the most talented people one can find)
 - In prospective hires, seek:
   - Intellectual diversity (be open to talent from unrelated domains)
   - Spiky talent (generalists with deep expertise in specific areas)
