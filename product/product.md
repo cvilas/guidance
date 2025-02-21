@@ -35,9 +35,10 @@
   - Document everything
 - Most progress happens at system integration and delivery time, _after_ we think we are done. Build up the energy in the dev team for this phase of work
 
-## Lessons from Dyson
+## Lessons from my past experiences
 
-On robotic product engineering in particular, here are valuable lessons I learnt from [Dyson](dyson.md)
+- From [Dyson](dyson.md), on how to build commercially successful consumer-grade robots
+- From [Arrival](arrival.md), on building complex robotic systems incrementally
 
 ## Notes
 
