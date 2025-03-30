@@ -31,8 +31,8 @@ and higher levels implement supervisory control and monitoring.
 
 Each layer of the databus has the following implementation characteristics:
 
-- Connectionless: Devices and applications do not rely on point-to-point connectivity (think UDP rather than TCP). The
-  connectivity graph is dynamic with devices appearing/disappearing/reappearing across the system sharing a common databus.
+- Connectionless: Devices and applications do not rely on point-to-point connectivity. The connectivity graph is dynamic 
+  with devices appearing/disappearing/reappearing across the system sharing a common databus.
   (Example: A networked patient monitoring system that continues to function as the patient is wheeled from one end of
   the hospital to another even through regions with no connectivity)
 - Applications and devices have no knowledge of each other. They function by publishing and subscribing data over
