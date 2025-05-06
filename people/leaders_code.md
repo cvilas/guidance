@@ -13,6 +13,7 @@ As a Leader, I shall:
 - Not dismiss something (tech, policy, process) that does not work without asking the questions 'could it work?' and 'What needs to change to make it work?' (That it doesn't work is stating the obvious.)
 - Hold the urge to complain. Propose solutions. Build consensus. Move forward. It's hard work, but the right thing to do.
 - Accept that mistakes/failures are natural part of learning. Engage end-users with the product/process early and often, so we can make those mistakes early and course-correct cheaply and often
+- Understand what motivates each person in my team. Then do my best to maximise opportunities around that.
 - Incentivise behaviours, not outcomes (Closely related to James Clear's [Identity-Based Habits](https://jamesclear.com/identity-based-habits))
 - Trust people to come up with solutions better than I could and let them drive it.
 - Think positively. Pessimism feels intellectual, but it ain't ('Seduction of Pessimism' - chapter 17 - [The Psychology of Money](https://www.amazon.co.uk/Psychology-Money-Timeless-lessons-happiness-ebook/dp/B084HJSJJ2))
@@ -48,3 +49,22 @@ As a Leader, I shall:
 - Take the time for frequent long walks (3-4 times a week) untethered to devices
 - Every week, set aside time to pick an unfamiliar area of work my team is engaged in (eg: codebase). Study it to understand it. Leave it in better shape than I found it - fix issues, document, clean up. Do this with intent to build my own knowhow and skills
 - My personal role models are consultant medical doctors and airline pilots. These professionals are practitioners, not managers. They continue to be hands on and continue to keep their skills sharp throughout their career.
+
+## On Benefits
+
+- When employing people, offer benefits, not perks
+  - Benefits (pension, life assurance) offer long-term value to employees
+  - Perks (coffee) are nice-to-have but they don't motivate. When money is tight, these must go first.
+  - Don't offer anything for free (eg: lunch). Make all internal services self-sustaining.
+- When offering solutions to customers, offer benefits, not features
+  - "5000 songs in your pocket", not "5GB hard disk" (first ipod)
+
+## On finding inspiration and motivation
+
+- Listen to [13 minutes to the moon](https://www.bbc.co.uk/programmes/w13xttx2) on how a bunch of kids in their 20s achieved the impossible.
+- Live the childhood I wanted.
+- If today was my last day on earth, what would I be proud of building? What's my life's work?
+
+## Some words of wisdom from others
+
+- [Maxims](./maxims.md)

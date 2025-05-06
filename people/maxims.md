@@ -59,20 +59,13 @@
   - A maniacal sense of urgency is our operating principle.
   - The only rules are the ones dictated by the laws of physics. Everything else is a recommendation.
 
+## Arthur Clarke
+
+- When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.
+- The only way of discovering the limits of the possible is to venture a little way past them into the impossible.
+- Any sufficiently advanced technology is indistinguishable from magic.
+
 ## Flight Instructors (various)
 
 - On discipline, practise, and following standard procedures: "Make sure the judgement calls and decisions you make up in the air look reasonable if they were to appear in an accident investigation report".
 - On irreversible events: Once the engine has failed, the aircraft doesn't belong to you. It belongs to the insurance company. Forget saving the aircraft; save yourself and your passengers.
-
-## On running my own business
-
-- Benefits, not perks
-  - Benefits (pension, life assurance) offer long-term value to employees
-  - Perks (coffee) are nice-to-have but they don't motivate. When money is tight, these must go first.
-  - Don't offer anything for free (eg: lunch). Make all internal services self-sustaining.
-
-## On finding inspiration and motivation
-
-- Listen to [13 minutes to the moon](https://www.bbc.co.uk/programmes/w13xttx2) on how a bunch of kids in their 20s achieved the impossible.
-- Live the childhood I wanted.
-- If today was my last day on earth, what would I be proud of building? What's my life's work?
