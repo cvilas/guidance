@@ -69,3 +69,9 @@
 
 - On discipline, practise, and following standard procedures: "Make sure the judgement calls and decisions you make up in the air look reasonable if they were to appear in an accident investigation report".
 - On irreversible events: Once the engine has failed, the aircraft doesn't belong to you. It belongs to the insurance company. Forget saving the aircraft; save yourself and your passengers.
+
+## Unknown
+
+- In group discussions that require decision making, the expert should speak last
+  - The most junior person speaks first 
+  - If expert talks first, it demotivates others from taking an opposing view

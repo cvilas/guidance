@@ -8,6 +8,7 @@
   - Follow a *no renders* policy. No special effects. No edits that hide issues.
 - With hardware development, front-load effort on design.
   - Hardware iterations are slow and expensive. Aim to get to the right design with fewest iterations.
+  - To make each iteration count, start field experiments as soon as we have minimal working hardware. Learn where failures happen, their probability and severity. Let that inform next design iteration.
   - Hardware cannot be abstracted away easily. Make it representative of the final thing as soon as possible
   - Stable hardware platform is paramount for software development velocity. Identify V1.0 hardware development platform ASAP.
 - With software development, 'bias to action'
@@ -22,6 +23,7 @@
 - Simplify the tech stack
   - Do not conflate simple with easy/familiar. [2] [3]
   - Simple != effortless. It takes time and effort to simplify. Make that investment.
+- Make compromises: Don't aim for design purity. Look for compromises that can be made to reach a design simpler to build and maintain, yet fit for purpose. 
 - For complex parts that remain, ensure multiple co-owners who understand the tech deeply.
 - Don't shy away from high-risk R&D. True competitive advantage and IP lie here. But make it viable:
   - Develop early proof-of-concept demos to ensure buy-in
