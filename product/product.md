@@ -14,6 +14,8 @@
 - With software development, 'bias to action'
   - Rationale: Unlike hardware, software iterations are fast and cheap
   - However, aim to get the fundamental architecture right asap. Reworking the fundamentals gets expensive over time 
+- "Compass over maps" as a tool to navigate uncertainty, especially in early product development
+  - Define concrete objectives/goals and principles to follow to get there. Obsessive planning (eg: endless 'architecture' discussions) is not necessary. Learn from field trials instead
 - Focus on the UX at every level
   - Component level: Clear APIs that are [correct by construction](../process/correct_by_construction.md)
   - Product level: Approach system design from the UX-end, instead of slapping on a UI at the end of system development.
