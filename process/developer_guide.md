@@ -30,6 +30,7 @@ It's acceptable for specifications to evolve with implementation, as we uncover 
 - Aim to implement code that is [correct by construction](correct_by_construction.md).
 - Employ [third party software](third_party.md) sparingly, and with great caution and skepticism
 - Organise the implementation into logical 'modules', each with its own unit tests, example programs, and documentation. See [modules](#modules)
+- Use AI coding assistants to improve productivity but do so [thoughtfully](ai.md) 
 
 ### Modules
 
