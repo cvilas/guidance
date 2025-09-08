@@ -5,6 +5,7 @@
 - Colocate development team or make it possible to meet in one physical space often. Rationale:
   - Being in the same space speeds up collaborative hands-on problem solving
   - Fully remote peers struggle to culturally align and collaborate
+  - Hybrid working can be a compromise with [some effort](./hybrid.md).
 - Hire sparingly.
   - Keep team small for high cultural alignment, low communication cost and low decision-making latency
 - Aim for high talent _density_
