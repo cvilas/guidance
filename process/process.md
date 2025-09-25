@@ -15,7 +15,8 @@
   - Observed behaviour
 - Use these [profiling tools](profiling.md) to measure performance
 - Build system
-  - Always current, and easily updatable to latest versions of compilers, languages, tools
+  - Always current, and easily updatable to latest versions of compilers, languages, tools. Rationale: 
+    For greenfield projects, there is no reason to consider anything but the cutting edge.
   - Based on CMake, because our eco-system is built around it (not bazel or other esoteric tools)
   - Integrated unit test framework (catch2, googletest)
   - Integrated linting
@@ -26,4 +27,5 @@
   - Eliminates a layer of separation between builders and users, and enables lossless direct feedback
   - Engineers must 'eat their own dog food'
   - Effective diagnosis and problem-fixing in the field requires deep knowledge of how the system is engineered
-- Minimise distance (layers of management, reporting line) between field operators and decision makers. Rationale: Motivates timely action on business risks or personnel safety.
+- Minimise distance (layers of management, reporting line) between field operators and decision makers. 
+  Rationale: Motivates timely action on business risks or personnel safety.

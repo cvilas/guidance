@@ -4,6 +4,11 @@
 
 - What [motivates](https://www.youtube.com/watch?v=u6XAPnuFjJc) all of us is autonomy, mastery and sense of purpose. Deliver that.
 - Provide vision and operating context, not control.
+- A good place of work is defined by
+  - Inspiring mission
+  - Inspiring colleagues
+  - Creative freedom
+  - Inspiring office environment
 
 As a Leader, I shall:
 
@@ -34,7 +39,10 @@ As a Leader, I shall:
 
 ## Additional notes to self on team management
 
-- Practise minimal management. Delegate decision making to people whom I trust to have good judgment.
+- Practise minimal management. Delegate:
+  - Ask myself: "Am I the best, cheapest person to do this work?" If not, pass it on to one who is.
+  - Follow this rule all the way down from C-suite to the most junior employee. Now you have an organisation where everyone is doing the most valuable work they can.
+  - This frees up capacity at the top to handle the most expensive problems (where the leaders happen to be the cheapest and best placed to solve them)
 - Define a roadmap (in terms of what I would do if I were a one-person team). Refine it with the team, and then delegate to the team for execution.
 - Favour periodic 1:1s with these decision makers over large group meetings to set team direction.
 - In 1:1s, provide technical direction and remove blockers. Coach, not parent.
