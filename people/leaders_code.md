@@ -39,7 +39,7 @@ As a Leader, I shall:
 
 ## Additional notes to self on team management
 
-- Practise minimal management. Delegate:
+- Delegate:
   - Ask myself: "Am I the best, cheapest person to do this work?" If not, pass it on to one who is.
   - Follow this rule all the way down from C-suite to the most junior employee. Now you have an organisation where everyone is doing the most valuable work they can.
   - This frees up capacity at the top to handle the most expensive problems (where the leaders happen to be the cheapest and best placed to solve them)
