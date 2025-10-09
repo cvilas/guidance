@@ -8,7 +8,7 @@
 - Develop tools that improve development velocity early:
   - Simulation environment from the beginning
   - Data recording and playback for post-mortem analysis
-- Use systems engineering languages: C++, Rust, Python
+- Use systems engineering languages for the core system: C++, Rust; For tooling, ad-hoc scripts, and proof-of-concepts, Python is powerful 
 - Maintain a bug database. Minimally, a bug report shall contain:
   - Steps to reproduce bug
   - Expected behaviour
