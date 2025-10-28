@@ -24,6 +24,8 @@
   - Simplify workflows and user interactions required to achieve a goal with our product
 - Simplify the tech stack
   - Do not conflate simple with easy/familiar. [2] [3]
+  - Simple = Observable, reasonable, understandable. When it breaks, it is possible to reason about 
+    what broke and how to fix it. 
   - Simple != effortless. It takes time and effort to simplify. Make that investment.
 - Make compromises: Don't aim for design purity. Look for compromises that can be made to reach a design simpler to build and maintain, yet fit for purpose. 
 - For complex parts that remain, ensure multiple co-owners who understand the tech deeply.
