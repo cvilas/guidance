@@ -9,14 +9,14 @@
 - Hire sparingly.
   - Keep team small for high cultural alignment, low communication cost and low decision-making latency
 - Aim for high talent _density_
-  - Train and promote from within.
+  - Train and promote from within 
   - Only hire force-multipliers (the most talented people one can find)
-- In prospective hires, seek:
-  - Intellectual diversity (be open to talent from unrelated domains)
-  - Spiky talent (generalists with deep expertise in specific areas)
-  - Aptitude for craftsmanship
-  - Ability to build from first principles
-  - Humility
+  - Filter for esoteric skills and interests, not the ones you commonly need. See [The Python Paradox](./media/python_paradox.md)
+  - Seek intellectual diversity (be open to talent from unrelated domains)
+  - Seek spiky talent (generalists with deep expertise in specific areas)
+  - Seek aptitude for craftsmanship
+  - Test aptitude to build from first principles
+- Test for humility
 
 ## Interview guidelines
 
