@@ -33,7 +33,6 @@ As a Leader, I shall:
 - Mentor and train my replacement, so I can move on/continue to learn/create further impact.
 - Pay well. Pay grade directly sets behavioural and performance expectations.
 - Reward and support hyper-performers in every possible way, not just in renumeration. Eg: higher autonomy, authority, responsibility
-- Avoid becoming a middle-manager, and save my best performers from similar fate. A team of high-agency individuals do not need them. Instead, find bandwidth to contribute, expand and sharpen technical skills.
 
 > I shall encourage my team to call me out if I am perceived to be breaking the code above
 
@@ -43,12 +42,9 @@ As a Leader, I shall:
   - Ask myself: "Am I the best, cheapest person to do this work?" If not, pass it on to one who is.
   - Follow this rule all the way down from C-suite to the most junior employee. Now you have an organisation where everyone is doing the most valuable work they can.
   - This frees up capacity at the top to handle the most expensive problems (where the leaders happen to be the cheapest and best placed to solve them)
-- Define a roadmap (in terms of what I would do if I were a one-person team). Refine it with the team, and then delegate to the team for execution.
-- Favour periodic 1:1s with these decision makers over large group meetings to set team direction.
 - In 1:1s, provide technical direction and remove blockers. Coach, not parent.
 - Invest more of my time in supporting and coaching higher performers.
-- Do not create middle managers. Only build a team of technically capable who can build.
-- Be unapologetic about not being a middle manager myself. Keep expanding and sharpening my technical and administrative skills.
+- Keep expanding and sharpening my technical skills as I expand my administrative skills.
 - Follow [hiring guidelines](hiring.md), but only hire people better than me (in the area of expertise they are being hired for)
 - Perform like a professional athlete. Push beyond the edge of my abilities a little bit every day. Have the patience to let my capabilities compound over time. 
 - Take time off to do personal projects on the side
@@ -56,7 +52,7 @@ As a Leader, I shall:
 - Take the time to read for pleasure.
 - Take the time for frequent long walks (3-4 times a week) untethered to devices
 - Every week, set aside time to pick an unfamiliar area of work my team is engaged in (eg: codebase). Study it to understand it. Leave it in better shape than I found it - fix issues, document, clean up. Do this with intent to build my own knowhow and skills
-- My personal role models are consultant medical doctors and airline pilots. These professionals are practitioners, not managers. They continue to be hands on and continue to keep their skills sharp throughout their career.
+- My personal role models are consultant medical doctors and airline pilots. They are life-long practitioners of their craft.
 
 ## On Benefits
 
@@ -64,15 +60,10 @@ As a Leader, I shall:
   - Benefits (pension, life assurance) offer long-term value to employees
   - Perks (coffee) are nice-to-have but they don't motivate. When money is tight, these must go first.
   - Don't offer anything for free (eg: lunch). Make all internal services self-sustaining.
-- When offering solutions to customers, offer benefits, not features
+- When solving customer problems, offer benefits, not features
   - "5000 songs in your pocket", not "5GB hard disk" (first ipod)
-
-## On finding inspiration and motivation
-
-- Listen to [13 minutes to the moon](https://www.bbc.co.uk/programmes/w13xttx2) on how a bunch of kids in their 20s achieved the impossible.
-- Live the childhood I wanted.
-- If today was my last day on earth, what would I be proud of building? What's my life's work?
 
 ## Some words of wisdom from others
 
+- Listen to [13 minutes to the moon](https://www.bbc.co.uk/programmes/w13xttx2) on how a bunch of kids in their 20s achieved the impossible.
 - [Maxims](./maxims.md)
