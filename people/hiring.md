@@ -21,20 +21,19 @@
 
 ## Interview guidelines
 
-Realise that as an interviewer, you are not just a gatekeeper but an ambassador for your organisation.
+> Realise that as an interviewer, you are not just a gatekeeper but an ambassador for your organisation. Your conduct and professionalism directly shape candidates' perceptions of the company.
 
 - Request for and review [work samples](./media/work_samples.pdf) from prospective hires. Don't make them do [homework](./media/homework.pdf)
 - Give them the driver's seat
   - Ask them to come prepared to show off their work, as described [here](./media/colleagues_wanted.pdf)
   - Ask about moments of pride they had in their careers. Seek to understand what drives them.
   - Ask about moments of failures. Look for signs of humility.
-  - Ask about things they have you built and are proud of. Look for signs of craftmanship, pursuit of excellence, aptitude for building from first principles.
+  - Ask about things they have built and are proud of. Look for signs of craftsmanship, pursuit of excellence, aptitude for building from first principles.
   - Ask "What questions did you wish I asked?"
 - Give them a challenge: Introduce the candidate to specific problems they would be working on if they were to join. Seek their insights. Since it is an ongoing problem, there are no right answers. But if they seem uninterested or uninsightful, they are unlikely to be fit for the role.
 - Look for signs of curiosity: Do they ask a lot of questions? Do they dig deep?
 - Test for character
   - Ask what personal rules and values they live by that are non-negotiable
-  - Ask if there is a company or personality they do not like and why.
   - Ask for examples where they have helped other people in their careers, especially those less influential than themselves
 - End on a light note
   - Ask what was the last book they read and what was interesting about it. (Readers are thinkers)
