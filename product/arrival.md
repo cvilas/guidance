@@ -4,18 +4,16 @@ I conceived the software architecture for Arrival's industrial mobile robot flee
 
 ## Motivation
 
+[![The micro-factory concept](./media/micro_factory_cell.png)](https://youtu.be/6QpO1Q8ScqE)<br>
 **The micro-factory concept** (video)
 
-[![The micro-factory concept](./media/micro_factory_cell.png)](https://youtu.be/6QpO1Q8ScqE)
 
+[![Inside the micro-factory](./media/micro_factory_logistics.png)](https://youtu.be/G4UGFzaSHw8)<br>
 **Factory operations** (video)
 (Notice the AMR _clusters_ working as one to transport oversized payloads)
 
-[![Inside the micro-factory](./media/micro_factory_logistics.png)](https://youtu.be/G4UGFzaSHw8)
-
+![WeMo Fleet](./media/wemo_fleet.jpg)<br>
 **WeMo fleet**
-
-![WeMo Fleet](./media/wemo_fleet.jpg)
 
 ## Complexity
 
