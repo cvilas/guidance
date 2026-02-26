@@ -27,7 +27,7 @@
 - Give them the driver's seat
   - Ask them to come prepared to show off their work, as described [here](./media/colleagues_wanted.pdf)
   - Ask about moments of pride they had in their careers. Seek to understand what drives them.
-  - Ask about moments of failures. Look for signs of humility. ("Describe an instance where you were wrong about something. How did it change you?"
+  - Ask about moments of failures. Look for signs of humility. ("Describe an instance where you were wrong about something. How did it change you?")
   - Ask about things they have built and are proud of. Look for signs of craftsmanship, pursuit of excellence, aptitude for building from first principles.
   - Ask "What questions did you wish I asked?"
 - Give them a challenge: Introduce the candidate to specific problems they would be working on if they were to join. Seek their insights. Since it is an ongoing problem, there are no right answers. But if they seem uninterested or uninsightful, they are unlikely to be fit for the role.
