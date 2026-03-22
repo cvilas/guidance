@@ -1,30 +1,47 @@
 # Code Review Guidelines
 
-### To all team members
+## To all team members
 
-- Set aside time in your sprint to account for unplanned review requests from your colleagues.
+- Set aside time for unplanned review requests from your peers every sprint.
+- 'Throw-away' code shall stay in short-lived branches and shall not be merged into main branch.
+  If it is in the main branch,
+  - Others will eventually depend on it, making it more permanent than you think
+  - AI codegen tools may use it as context to generate new code, potentially increasing technical debt
+  - New joiners may see it as demonstrative examples of how to contribute to the codebase, and
+    the quality that is expected.
 
-### To MR authors
+## To authors
 
-- Take control: Assign reviewers yourself and work with them to ensure timely review of it
-  - If existing code has been changed, request one of the original authors to review it. They will have the context necessary to assess the MR based on original design intent and scope of that code
-  - If this is a new addition, get one of the Principal Engineers to review it. They have the responsibility to ensure that the codebase remains coherent over the long term.
-- Please give reviewers a heads-up on what the MR is about, if not in the MR description already.
-- Empathise: You are asking for unplanned time from your colleague, who may be busy on their own tasks. Work with them personally to get your MR through in a timely manner.
+- In the pull request, define
+  - What is the change and why was it necessary
+  - Who reviews what, if the diff is non-trivial
+- Write example programs to clarify usage where necessary
+- Write unit tests to cover potential violations of assumptions and contracts in the future
+- Document the work as per coding guidelines.
 
-### To reviewers
+## To reviewers
 
-- Make your availability known when your review is requested. Clarify expected response time.
-- In reviewing an MR
-  - Make actionable suggestions
-  - Focus on clarify of design, API, and its usage. Less than perfect internal details could be improved in future MRs
-- Expect production-quality code, even at low TRLs. Reject MR if:
-  - The work disregards basic software design and engineering principles (eg: [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [SOLID](https://en.wikipedia.org/wiki/SOLID))
-  - The implementation is inconsistent with system architecture znd long term vision for the product
-  - The work is not properly documented as per coding guidelines.
-  - There aren't example programs to clarify usage where necessary
+- Make actionable suggestions
+- Prefix a comment with `nit:` if it is nitpicky or expresses a personal preference
+- AI generated code shall be reviewed as if the author wrote it and are able to explain it
+- Expect 'correct' code, even at low TRLs. Reject pull request if:
+  - The design intent and scope is not clear
+  - The interfaces and APIs are prone to misuse
+  - The implementation is inconsistent with system architecture and long term vision
+  - The implementation fails basic software design principles as set out in the [developer guide](./developer_guide.md) (eg: DRY, SOLID, inconsistent units)
+
+## Automated CI checks
+
+- The CI build should fail if:
   - The code is not formatted as per style guidelines
-  - The code is not compliant with language usage rules (i.e. generates linter warnings)
+  - The code generates linter warnings
   - The code generates compiler warnings
+  - Tests fail
+- Do not merge pull requests that fails CI. 
 
-For additional guidance, follow [Google Code Review guidelines](https://google.github.io/eng-practices/review/).
+## Tips for speeding up code reviews
+
+- Keep pull requests small
+- Clarify expectations. Negotiatate with reviewers for their availability and response time.
+- If the change is sophisticated enough, the problem it solves and the general approach should have
+  been agreed upon prior to implementation. The pull request should not come as a surprise to code owners.

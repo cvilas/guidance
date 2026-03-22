@@ -1,4 +1,4 @@
-# The Developers' Code
+# Developer Guidelines
 
 ## Brief
 
@@ -25,13 +25,21 @@ It's acceptable for specifications to evolve with implementation, as we uncover 
 
 > "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off." - Bjarne Stroustrup
 
-- In using language features, be correct and safe. Use [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines). (example [clang-tidy](.clang-tidy) configuration)
-- In coding _style_, be consistent. Follow [ROS C++ Style Guide](https://wiki.ros.org/CppStyleGuide). (example [.clang-format](.clang-format) configuration )
-- Aim to implement code that is [correct by construction](correct_by_construction.md).
+- In using language features, be correct and safe. Use [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines). ([example config](.clang-tidy))
+- In coding _style_, be consistent. Follow [ROS C++ Style Guide](https://wiki.ros.org/CppStyleGuide). ([example config](.clang-format))
+- Aim to implement code that is [correct by construction](correct_by_construction.md) and therefore, hard to misuse
+  - Prefer `const`, `consteval`, `constexpr`; use `enum class` over bare enums or `bool` flags
+  - Use strong/named types to clarify semantics; mark single-argument constructors `explicit`
+  - Use `static_assert` for compile-time checks; prefer `switch` with no `default` over `if/else` chains
+  - Use RAII everywhere (Constructor Acquires, Destructor Releases)
+  - Use contracts to protect invariants in code (`contract_assert`, `pre(condition)`, `post(r: condition)`)
+- Follow basic software design principles of [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) and [SOLID](https://en.wikipedia.org/wiki/SOLID)
+- Use SI units in public interfaces
+- Prefer functional programming and free-standing interfaces to minimise coupling and dependencies within and between modules. See [modules](#modules)
+- In writing applications, follow UNIX philosophy of programs that (a) do one thing and do it well and (b) work well together by composition
 - Employ [third party software](third_party.md) sparingly, and with great caution and skepticism
-- Organise the implementation into logical 'modules', each with its own unit tests, example programs, and documentation. See [modules](#modules)
 - Use AI coding assistants to improve productivity but do so [thoughtfully](ai.md) 
-
+  
 ### Modules
 
 Organise the code repository as a collection of _modules_. A module is a cohesive group of
