@@ -4,7 +4,7 @@ I was a member of the team that delivered Dyson's 360 Eye robot, their first com
 
 ## On Product Engineering
 
-These are extracted from a [talk](https://tv.theiet.org/?videoid=7390) that [Mike Aldred](https://www.linkedin.com/in/mike-d-aldred/) gave at the IET in 2015, which covers Dyson’s product development philosophy quite well. The online video is . 
+These are extracted from a [talk](https://tv.theiet.org/?videoid=7390) that [Mike Aldred](https://www.linkedin.com/in/mike-d-aldred/) gave at the IET in 2015, which covers Dyson’s product development philosophy quite well. 
 
 - For a robot to succeed as a new product it must
   - Solve a real problem
@@ -12,7 +12,7 @@ These are extracted from a [talk](https://tv.theiet.org/?videoid=7390) that [Mik
   - Be different (from alternatives. Don’t do a ‘me too’ product)
 - Focus on the benefits the product brings to the consumer, not on the technology
   - Vision and robotics are enabling technologies. They are not product themselves.
-  - Customers may initially get excited about the underlying technology. But they wears away soon
+  - Customers may initially get excited about the underlying technology. But that wears off soon
 - Set difficult challenges to solve with a new product. 
   - Develop an ‘aspirational’ spec.
   - Easy = not worth doing (somebody else will beat us to it). 
