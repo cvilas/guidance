@@ -66,6 +66,6 @@ As a long-distance runner at school, James Dyson learned that almost everyone ge
 
 ## On Marketing
 
-Dyson’s marketing material is engineering driven. Their ads communicate how and why Dyson products are engineered the way they are. They explain what engineering choices were made to make their products better than the competition. Here’s an example demonstrating that approach: https://www.youtube.com/watch?v=OadhuICDAjk.
+Dyson’s marketing material is engineering driven. Their ads communicate how and why Dyson products are engineered the way they are. They explain what engineering choices were made to make their products better than the competition. Here’s an example demonstrating that approach: [broken](https://www.youtube.com/watch?v=OadhuICDAjk), [alternative](https://youtu.be/4FbmmZjttIY?si=Eq1-Olx7yT7xkKhC).
 
 Dyson does not micromessage. What the employee hears is what the customer hears.
