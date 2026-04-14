@@ -163,6 +163,7 @@ covariance estimate. A stateless Kalman filter would publish both output `Y` and
 for subsequent updates. If now the Kalman filter process fails for some reason, the process can be restarted,
 possibly in some other location in the distributed system. Since the process subscribes to all data it needs and holds
 no internal state, it can immediately recover by reading the latest state from the data bus and continue from there.
+(Note that this requires network storage, which technologies like [Zenoh](https://zenoh.io) enable.)
 
 Furthermore, a backup Kalman filter could remain deployed on active standby, already subscribed to the states and
 measurements. It is then ready to take over immediately if the primary filter fails, providing robust fault tolerance.
