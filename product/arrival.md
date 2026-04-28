@@ -113,7 +113,7 @@ How did we do it? With the following design principles
 ## Design for introspection and dynamic (re)configuration
 
 - Version control everything (software, hardware, firmware)
-  - Two slightly different manipulator designs using the exact same electronics is still a different piece of hardware from the software point of view
+  - Two slightly different manipulator mech. designs using the exact same electronics (or vice versa) is still a different piece of hardware from the software point of view
 - Define a protocol to query devices for identification
   - Example (low level): CANOpen SDO for device name, hardware version, software version
   - Example (high level): Application to report software version 
