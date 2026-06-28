@@ -5,18 +5,16 @@ Follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) fo
 ## Structure
 
 ```text
-<type>[optional scope]: <description>
+<type>(scope): <description>
 
 [optional body: Provides additional implementation detail if necessary]
 
 [optional footer(s): Reference to issue tracker]
 ```
 
-- `type` can be of `build`, `chore`, `docs`, `feat`, `fix`, `perf`, `refactor`, `revert`, `style`, `test` 
+type: `build`, `chore`, `docs`, `feat`, `fix`, `perf`, `refactor`, `revert`, `style`, `test` 
 
 ## Example 
-
-(`!` signifies breaking change) 
 
 ```text
 feat(api)!: Sends an email to the customer when a product is shipped
@@ -25,3 +23,6 @@ Adds integration with email client and customer contact information backend to a
 
 Reference: https://github.com/<organisation>/<project>/issues/7
 ```
+
+(`!` signifies breaking change)
+
