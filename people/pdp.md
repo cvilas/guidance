@@ -27,12 +27,3 @@ Most of our learning comes from challenging ourselves on the job, some from obse
 - **20%: Developmental Relationships**: Seek direct coaching from peers, mentors and subject experts. Your personal relationships with them can often shorten your learning time, and help you develop in specific areas, technical or otherwise. Leaders should help identify these experts within the organisation.
 - **10%: Courses and Training**: Learn by formal/traditional teaching methods (i.e. online courses, on-site teaching or university courses. Use these to upskill yourself on specific technologies and domain knowledge required for you to succeed in your present or future roles.
 
-## Tips for staying competitive
-
-- Work on harware tech & physical AI. Rationale:
-  - Software is easy. Hardware is hard. Do hard things. This kind of tech has long lasting impact (nuclear fusion, aerospace, defense, green energy)
-  - Working on hardware/physical systems require physical presence. Eliminates competition from 'remote' knowledge workers
-- (James Clear) Seek pockets of low competition
-  - Wake up early—less traffic, fewer people.
-  - Go deeper or narrower in your field — less noise, more space.
-  - People are drawn to where it is crowded. Look for the quiet spaces inside your areas of interest. Excellence often hides at the edges.
