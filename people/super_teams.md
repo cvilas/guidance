@@ -15,3 +15,7 @@
 - Leaders ask the question: what are you stuck on? This brings people together to solve problems. It's normal to feel stuck when doing hard things
 - Leaders are hands on, investing in the day to day operations. Helps the team feel a deeper sense of collaboration. Have a clear view of ground reality, helping them spot challenges and opportunities way faster than hands-off leaders
 - Not everybody is suitable for super teams. Requirements: open mindedness, willingness to learn, willingness to try new things, adaptable, and open to continuous improvement. 
+
+## Reference
+
+- Ron Friedman, Superteams: The Science and Secrets of High-Performing Teams, 2026 [book](https://www.amazon.co.uk/dp/1399843257/?coliid=I26G2L3XPCQOIG) 
