@@ -5,11 +5,12 @@
 ## Principles
 
 - The `main` branch is always 'green' (i.e. functional)
-- Releases are created from `main` branch and delivered to production bi-weekly.
-  - This cadence is fixed. Release what is ready. Do not delay release for a feature. Rationale: Production environment requires predictable schedules
+- Releases are created from `main` branch and delivered to production on a fixed cadence (eg: bi-weekly, quaterly, half-yearly).
+  - Release what is ready. Do not delay release to wait for a feature to be completed. Do not expedite a release due to a new feature.
+  - Rationale: Predictability. Enables Ops team to plan scheduled maintenance (upgrades), and enables disciplined software development.
 - Every release candidate (RC) gets two validation and verification (V&V) tests, before release.
 
-## Procedure
+## Procedure for bi-weekly release cadence
 
 - On the last day of a two-week Sprint, generate a new RC branch from the head of `main` branch.
 - Start V&V-1 the following Monday (start of next Sprint). V&V-1 and V&V-2 spaced one week apart.
