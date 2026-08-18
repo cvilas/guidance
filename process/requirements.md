@@ -9,11 +9,11 @@ Requirements analysis makes a design problem tractable, by defining bounds for w
 To initiate requirements gathering for a component, start with answers to these questions:
 
 1. _Why_ is the system required? (i.e. What is the Problem we want to solve and why is it worth solving?)
-1. _What_ is the system intended to do? (i.e. What must be achieved? What is the benefit if the Problem is solved.)
+1. _What_ is the system intended to do? 
 1. What is the _boundary/scope_? What elements are within the system and what are outside?
-1. _Who_ interacts with the system?
-1. _When_ do interactions take place? (dynamic behaviour)
-1. _How_ do interactions take place? (order of events)
+1. _Who_ interacts with the system? (i.e. User behaviour)
+1. _When_ do interactions take place? (i.e. dynamics of the system)
+1. _How_ do interactions take place? (i.e. sequential order of events)
 
 ## Viewpoint-Oriented Requirements Modelling
 
@@ -48,14 +48,11 @@ This method identifies stakeholders and their vested interests, and the system i
 
 ### Modelling process
 
-This approach enables analysis from outside-in. Top level requirements (eg objectives from the vision spec.) get defined first. This defines the higher level system components, which lends itself to further decomposition into a hierarchy of smaller (simpler) components.
+- Analyse from outside-in. Top level requirements (e.g. objectives from the vision spec.) get defined first. This defines the higher level system components, which lends itself to further decomposition into a hierarchy of smaller (simpler) components.
+- Any given level/sub-system defines _what_ must be achieved in order to satisfy the levels above.
+- The higher levels typically clarify _why_ a sub-system must do what it does, and the lower levels describes _how_ it might be achieved.
 
-Any given level/sub-system defines _what_ must be achieved in order to satisfy the levels above.
-
-The higher levels typically clarify _why_ a sub-system must do what it does, and the lower levels describes _how_ it might be achieved.
-
-The above stakeholder analysis will lead a set of statements that we call _primary requirements_.
-The above is seldom sufficiently detailed to implement a solution. Enhance further with information from the problem domain to develop _derived requirements_. These are not explicitly stated in the stakeholder requirements yet the system is required to satisfy them.
+Stakeholder analysis results in a set of statements that we call _primary requirements_. This is seldom sufficiently detailed to implement a solution. Enhance further with information from the problem domain to develop _derived requirements_. These are not explicitly stated in the stakeholder requirements yet the system is required to satisfy them.
 
 > Requirements are complete when all stakeholder needs are addressed.
 
