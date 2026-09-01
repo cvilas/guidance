@@ -17,15 +17,15 @@
   - Filter for esoteric skills and interests, not the ones you commonly need. See [The Python Paradox](./media/python_paradox.md)
   - Seek those with an aptitude to build from first principles
 - Seek intellectual diversity (be open to talent from unrelated domains)
-- Maintain a balance of _innovators_ and _maintainers_ in the team. (Innovators are disruptive. Maintainers provide stability.)
+- Maintain a balance of _innovators_ and _maintainers_ in the team. (Innovators bring new ideas but are disruptive. Maintainers provide stability.)
 
 ## Interview guidelines
 
-> Realise that as an interviewer, you are not just a gatekeeper but an ambassador for your organisation. Your conduct and professionalism directly shape candidates' perceptions of the company.
+> The interviewer is not just a gatekeeper but an ambassador for the organisation. Their conduct and professionalism directly shape candidates' perceptions of the company.
 
 - Request for and review [work samples](./media/work_samples.pdf) from prospective hires. Don't make them do [homework](./media/homework.pdf)
 - Give them the driver's seat
-  - Ask them to come prepared to show off their work, as described [here](./media/colleagues_wanted.pdf)
+  - Ask them to come prepared to show off their work.
   - Ask about moments of pride they had in their careers. Seek to understand what drives them.
   - Ask about moments of failures. Look for signs of humility. ("Describe an instance where you were wrong about something. How did it change you?")
   - Ask about things they have built and are proud of. Look for signs of craftsmanship, pursuit of excellence, aptitude for building from first principles.
