@@ -36,7 +36,7 @@ A suggested directory structure is as follows:
 > "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off." - Bjarne Stroustrup
 
 - In using language features, be correct and safe. Follow [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines), with automated linting ([example config](.clang-tidy))
-- In coding _style_, be consistent. Follow [ROS C++ Style Guide](https://wiki.ros.org/CppStyleGuide) with automated formatting. ([example config](.clang-format))
+- In coding _style_, be consistent. Follow a style that can be enforced automatically with tools such as `clang-format`. ([example config](.clang-format))
 - Aim to implement code that is [correct by construction](correct_by_construction.md) and therefore, hard to misuse
   - Prefer `const`, `consteval`, `constexpr`; use `enum class` over bare enums or `bool` flags
   - Use strong/named types to clarify semantics; mark single-argument constructors `explicit`
