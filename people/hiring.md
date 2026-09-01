@@ -37,3 +37,11 @@
   - Ask for examples where they have helped other people in their careers, especially those less influential than themselves
 - End on a light note
   - Ask what was the last book they read and what was interesting about it. (Readers are thinkers)
+
+## Workflow
+
+- Shortlist
+- Round 1: Screening (Introductions both ways. Basic assessment of fit. Usually conducted by technical recruiter)
+- Round 2: Technical deep dive (Sometimes two rounds required to dig deep. Prefer on-site) 
+- Round 3: Culture fit and expectations
+- Offer
