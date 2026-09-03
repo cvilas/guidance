@@ -44,3 +44,7 @@ After each step, compare against baseline for regressions. Fix if any.
 - Modernise to improve code quality (RAII, etc)
 
 To be continued...
+
+## References
+
+- Peter Muldoon, "Modernising legacy codebases without stopping the world", ACCU 2026
