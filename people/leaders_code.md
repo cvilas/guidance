@@ -1,5 +1,8 @@
 # Leadership Code
 
+One becomes a leader when they choose to act like it. It is not a title bestowed on them by someone else. 
+They are intentional about their actions, behaviours, what they say, and not say.
+
 ## Core principles
 
 - What [motivates](https://www.youtube.com/watch?v=u6XAPnuFjJc) all of us is autonomy, mastery and sense of purpose. Deliver that.
