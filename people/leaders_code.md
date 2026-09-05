@@ -13,6 +13,7 @@
 As a Leader, I shall:
 
 - Be humble. Building things in the physical world is hard, and can go wrong in many interesting ways.
+- Praise publicly, criticise privately. (And criticise the behaviour, not the person)
 - Hold on to strong views loosely. Conviction provides direction to the team. But, when evidence to the contrary presents itself, change views.
 - Commit once a decision is made, even if I disagree. (It's common for intelligent/reasonable people to disagree)
 - Not dismiss something (tech, policy, process) that does not work without asking the questions 'could it work?' and 'What needs to change to make it work?' (That it doesn't work is stating the obvious.)
